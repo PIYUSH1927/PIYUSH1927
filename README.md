@@ -1,7 +1,7 @@
 [![MasterHead]
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF3MWc3bmNpczd0MzI0d2h3Mm0zcjFoZGhyNWV0MTV6bWVrMTg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush1927&label=Profile%20views&color=0e75b6&style=flat" alt="piyush1927" /> </p>
 
 - 👨‍💻 My portfolio [https://piyushpadia.netlify.app/](https://piyushpadia.netlify.app/)
